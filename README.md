@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, mi nombre es: Daniel Huchani Huaranca</h1>
+<h1 align="center">Holaa..! 👋, mi nombre es: Daniel Huchani Huaranca</h1>
 <h3 align="center">Soy desarrollador apasionado por el backend y el frontend</h3>
 
-- 👨‍💻 All of my projects are available at [.com](.com)
+- 👨‍💻 mi portafolio de proyectos [.com](.com)
 
-- 💬 Ask me about **laravel,angular**
+- 💬 preguntame acerca de: **laravel,angular**
 
-- 📫 How to reach me **danielhuchani59@gmail.com**
+- 📫 como llegar a mi **danielhuchani59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
