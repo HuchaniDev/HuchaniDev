@@ -1,7 +1,7 @@
 <h1 align="center">Holaa..! 👋, mi nombre es: Daniel Huchani Huaranca</h1>
 <h3 align="center">Soy desarrollador apasionado por el backend y el frontend</h3>
 
-- 👨‍💻 mi portafolio de proyectos [.com](.com)
+- 👨‍💻 mi portafolio de proyectos [.com](http://127.0.0.1:5500/index.html#contact)
 
 - 💬 preguntame acerca de: **laravel,angular**
 
